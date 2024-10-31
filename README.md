@@ -1,1 +1,1 @@
-Účetnní aplikace s CRUD struktůrou.
+Účetní aplikace s CRUD struktůrou.
